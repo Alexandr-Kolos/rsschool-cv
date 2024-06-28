@@ -36,9 +36,9 @@ function basicOp(operation, value1, value2){
 ## Education
 - **Uneversity:** Polotsk State University, Chemical engineer
 - **Courses:**
-    -[HTML](https://code-basics.com/ru/languages/html)
-    -[CSS](https://code-basics.com/ru/languages/css)
-    -[JS](https://code-basics.com/ru/languages/javascript)
+    - [HTML](https://code-basics.com/ru/languages/html)
+    - [CSS](https://code-basics.com/ru/languages/css)
+    - [JS](https://code-basics.com/ru/languages/javascript)
 
 ## English
-- **B1** (I enjoy practicing English by reading various literature in English)
+**B1** (I enjoy practicing English by reading various literature in Englis)
