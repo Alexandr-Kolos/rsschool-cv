@@ -1,19 +1,44 @@
 # Kolos Alexandr
 
 ## Contact information:
-- **phone:** +375295369998
-- **email:** colossila@gmail.com
+- **Location:** Mozyr, Belarus
+- **Phone:** +375 29 5369998
+- **Email:** colossila@gmail.com
 - **GitHub:** 
-- **Discord:**
 
 ## About me
+I am a responsible and dedicated professional with excellent communication skills, able to effectively interact with colleagues and clients. Highly organized and adaptable, I prioritize tasks to meet deadlines and quickly adjust to new situations. As a proactive team player, I take initiative in projects to achieve common goals.
 
 ## Skills
+- Git
+- HTML
+- CSS
+- Java Script (Bacic)
 
 ## Code example
+```
+function basicOp(operation, value1, value2){
+  switch(operation) {
+      case '+':
+        return value1 + value2;
+      case '-':
+        return value1 - value2;
+      case '*':
+        return value1 * value2;
+      case '/':
+        return value1 / value2;
+  }
+}
+```
 
-## Aducation
+## Experience
 
-## Languages
-- **Russian:** Native
-- **English:** - B1 (Pre-intermediate)
+## Education
+- **Uneversity:** Polotsk State University, Chemical engineer
+- **Courses:**
+    -[HTML](https://code-basics.com/ru/languages/html)
+    -[CSS](https://code-basics.com/ru/languages/css)
+    -[JS](https://code-basics.com/ru/languages/javascript)
+
+## English
+- **B1** (I enjoy practicing English by reading various literature in English)
