@@ -32,6 +32,7 @@ function basicOp(operation, value1, value2){
 ```
 
 ## Experience
+I developed practical skills in [specific skills] during the Stage 0 program at The Rolling Scopes School.
 
 ## Education
 - **Uneversity:** Polotsk State University, Chemical engineer
