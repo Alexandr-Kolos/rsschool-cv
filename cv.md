@@ -14,3 +14,31 @@ I am a responsible and dedicated professional with excellent communication skill
 - HTML
 - CSS
 - Java Script (Bacic)
+
+## Code example
+```
+function basicOp(operation, value1, value2){
+  switch(operation) {
+      case '+':
+        return value1 + value2;
+      case '-':
+        return value1 - value2;
+      case '*':
+        return value1 * value2;
+      case '/':
+        return value1 / value2;
+  }
+}
+```
+
+## Experience
+
+## Education
+- **Uneversity:** Polotsk State University, Chemical engineer
+- **Courses:**
+    - [HTML](https://code-basics.com/ru/languages/html)
+    - [CSS](https://code-basics.com/ru/languages/css)
+    - [JS](https://code-basics.com/ru/languages/javascript)
+
+## English
+**B1** (I enjoy practicing English by reading various literature in Englis)
